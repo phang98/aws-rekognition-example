@@ -24,6 +24,12 @@ http://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html
 * java -jar target/FaceDetection-1.0-SNAPSHOT.jar
  
 
+What’s next?
+* Try compareFacesMatch feature.
+* Create a tool to update face detail on the image.
+* Use python instead and run in raspberry pi.
+
+
 ## Contributors
 
 Everyone are welcome
