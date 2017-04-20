@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.phangaws.facedetection.DetectLabelsFacesExampleImageBytes</mainClass>
+                            <mainClass>com.phangaws.facedetection.CompareFacesExample</mainClass>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                         </manifest>

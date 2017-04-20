@@ -24,7 +24,7 @@ import com.amazonaws.util.IOUtils;
 
 public class DetectLabelsFacesExampleImageBytes {
     public static void main(String[] args) throws Exception {
-    	String photo="baby.png";
+    	String photo="aaron.jpg";
         ClassLoader classLoader = new DetectLabelsFacesExampleImageBytes().getClass().getClassLoader();
         
         AWSCredentials credentials;
