@@ -15,9 +15,13 @@ http://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html
 
 ## Tests
 
-mvn clean install
-
-java -jar target/FaceDetection-1.0-SNAPSHOT.jar
+* Just create an IAM account.
+    * Copy the Access key ID
+    * Copy the Secret access key
+* Install [aws-cli](https://s3.amazonaws.com/aws-cli/AWSCLI64.msi)
+    * aws configure (enter the acess key id and secret access key)
+* mvn clean install
+* java -jar target/FaceDetection-1.0-SNAPSHOT.jar
  
 
 ## Contributors
