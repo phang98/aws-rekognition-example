@@ -16,9 +16,9 @@ http://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html
 ## Tests
 
 mvn clean install
-java -jar target/FaceDetection-1.0-SNAPSHOT.jar
 
-Currently the 
+java -jar target/FaceDetection-1.0-SNAPSHOT.jar
+ 
 
 ## Contributors
 
