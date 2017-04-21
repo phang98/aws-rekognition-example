@@ -27,6 +27,7 @@ http://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html
 ## What’s next?
 - [x] Try compareFacesMatch feature.
 - [ ] Create a tool to update face detail on the image.
+    - [ ] Use JS library, to paste your image from clipboard/from file. Then highlight the detail based on the facedetail return from the aws-reckognition call.
 - [ ] Use python instead and run in raspberry pi.
 
 
