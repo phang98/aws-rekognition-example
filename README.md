@@ -18,16 +18,16 @@ http://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html
 * Just create an IAM account.
     * Copy the Access key ID
     * Copy the Secret access key
-* Install [aws-cli](https://s3.amazonaws.com/aws-cli/AWSCLI64.msi)
+* Install [aws-cli](https://aws.amazon.com/cli/)
     * aws configure (enter the acess key id and secret access key)
 * mvn clean install
 * java -jar target/FaceDetection-1.0-SNAPSHOT.jar
  
 
 ## What’s next?
-* Try compareFacesMatch feature.
-* Create a tool to update face detail on the image.
-* Use python instead and run in raspberry pi.
+- [x] Try compareFacesMatch feature.
+- [ ] Create a tool to update face detail on the image.
+- [ ] Use python instead and run in raspberry pi.
 
 
 ## Contributors
